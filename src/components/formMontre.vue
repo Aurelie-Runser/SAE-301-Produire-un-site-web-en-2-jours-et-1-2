@@ -176,7 +176,7 @@
 
                         <!-- si l'utilisateur à déjà commandé sa montre-->
                         
-                        <p v-if="montre.commande" class="w-full my-20 px-5 py-10 font-extrabold text-center bg-secondaire_claire dark:bg-se">Cette montre est commandé, vous ne pouvez plus la modifier.</p>
+                        <p v-if="montre.commande == true" class="w-full my-20 px-5 py-10 font-extrabold text-center bg-secondaire_claire dark:bg-se">Cette montre est commandé, vous ne pouvez plus la modifier.</p>
 
 
                     </FormKit>
