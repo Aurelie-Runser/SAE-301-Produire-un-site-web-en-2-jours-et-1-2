@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Palatino Linotype';
-    src: url('@/src/assets/fonts/font-palatino-linotype.ttf') format('ttf');
+    src: url('@/assets/fonts/font-palatino-linotype.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 };
