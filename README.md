@@ -1,6 +1,6 @@
-<h1>SAE 301 : Produire un site web en 2 jours et 1/2</h1>
+<h1>SAE 301 : Produire un site web en 4 avec un formaulaire fonctionnel</h1>
 
-Nous avions pour but de développer un site web de personnalisation de montre en 2 jours et 1/2.
+Nous avions pour but de développer un site web de personnalisation de montre en 4 jours.
 
 Pour cela, nous avions dû utiliser le framework VueJs et Tailwind pour les classes CSS, ainsi que Supabase pour la base de données.
 Comme contenus, nous avons dû nous baser sur une maquette réalisée la veille et intégrée les différentes fonctions suivantes grâce à des fonctions TypeScript et Tailwind :
